@@ -6,7 +6,7 @@ To automate the creation of joint savings accounts, we created a Solidity smart 
 
 ## Technologies
 
-This project leverages python 3.7 with the following packages:
+This project leverages solidity 0.5.0 with the following packages:
 
 * [remix](https://remix.ethereum.org) -Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
 
